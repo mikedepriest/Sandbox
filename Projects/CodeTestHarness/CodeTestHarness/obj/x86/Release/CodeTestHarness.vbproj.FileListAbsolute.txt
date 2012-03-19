@@ -1,0 +1,15 @@
+C:\Documents and Settings\mike_depriest\my documents\visual studio 2010\Projects\CodeTestHarness\CodeTestHarness\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\mike_depriest\my documents\visual studio 2010\Projects\CodeTestHarness\CodeTestHarness\obj\x86\Release\MainWindow.baml
+C:\Documents and Settings\mike_depriest\my documents\visual studio 2010\Projects\CodeTestHarness\CodeTestHarness\obj\x86\Release\MainWindow.g.vb
+C:\Documents and Settings\mike_depriest\my documents\visual studio 2010\Projects\CodeTestHarness\CodeTestHarness\obj\x86\Release\Application.g.vb
+C:\Documents and Settings\mike_depriest\my documents\visual studio 2010\Projects\CodeTestHarness\CodeTestHarness\obj\x86\Release\CodeTestHarness_MarkupCompile.cache
+C:\Documents and Settings\mike_depriest\my documents\visual studio 2010\Projects\CodeTestHarness\CodeTestHarness\obj\x86\Release\CodeTestHarness.g.resources
+C:\Documents and Settings\mike_depriest\my documents\visual studio 2010\Projects\CodeTestHarness\CodeTestHarness\obj\x86\Release\WpfApplication1.Resources.resources
+C:\Documents and Settings\mike_depriest\my documents\visual studio 2010\Projects\CodeTestHarness\CodeTestHarness\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\mike_depriest\my documents\visual studio 2010\Projects\CodeTestHarness\CodeTestHarness\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\mike_depriest\my documents\visual studio 2010\Projects\CodeTestHarness\CodeTestHarness\bin\Release\CodeTestHarness.exe
+C:\Documents and Settings\mike_depriest\my documents\visual studio 2010\Projects\CodeTestHarness\CodeTestHarness\bin\Release\CodeTestHarness.pdb
+C:\Documents and Settings\mike_depriest\my documents\visual studio 2010\Projects\CodeTestHarness\CodeTestHarness\bin\Release\CodeTestHarness.xml
+C:\Documents and Settings\mike_depriest\my documents\visual studio 2010\Projects\CodeTestHarness\CodeTestHarness\obj\x86\Release\CodeTestHarness.exe
+C:\Documents and Settings\mike_depriest\my documents\visual studio 2010\Projects\CodeTestHarness\CodeTestHarness\obj\x86\Release\CodeTestHarness.xml
+C:\Documents and Settings\mike_depriest\my documents\visual studio 2010\Projects\CodeTestHarness\CodeTestHarness\obj\x86\Release\CodeTestHarness.pdb

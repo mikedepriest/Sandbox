@@ -1,0 +1,10 @@
+﻿<Window x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:uc="clr-namespace:WpfApplication1"
+    Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Button" Height="23" HorizontalAlignment="Left" Margin="186,87,0,0" Name="Button1" VerticalAlignment="Top" Width="75" />
+    <uc:UserControl1 HorizontalAlignment="Stretch" Margin="0,0,0,0" VerticalAlignment="Stretch" Width="Auto" Height="Auto" Visibility="Collapsed" x:Name="TestUserControl"  />
+    </Grid>
+</Window>
