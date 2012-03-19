@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SbSCh2_3", "SbSCh2_3\SbSCh2_3.csproj", "{13859C60-3B09-4E97-AD62-133CB9755C8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SbSCh2_3.Web", "SbSCh2_3.Web\SbSCh2_3.Web.csproj", "{F1EF120F-DFFB-443B-B0F2-FE4ABCA0305F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13859C60-3B09-4E97-AD62-133CB9755C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13859C60-3B09-4E97-AD62-133CB9755C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13859C60-3B09-4E97-AD62-133CB9755C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13859C60-3B09-4E97-AD62-133CB9755C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1EF120F-DFFB-443B-B0F2-FE4ABCA0305F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1EF120F-DFFB-443B-B0F2-FE4ABCA0305F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1EF120F-DFFB-443B-B0F2-FE4ABCA0305F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1EF120F-DFFB-443B-B0F2-FE4ABCA0305F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
