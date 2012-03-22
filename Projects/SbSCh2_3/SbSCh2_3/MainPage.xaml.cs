@@ -37,5 +37,15 @@ namespace SbSCh2_3
             rectangle1.Fill = new SolidColorBrush(Colors.Yellow);
             e.Handled = true;
         }
+
+        private void rectangle1_MouseWheel(object sender, MouseWheelEventArgs e)
+        {
+            if (e.Delta > 0)
+            {
+                textBox1.Text="up";
+            } else {
+                textBox1.Text="down";
+            }
+        }
     }
 }
