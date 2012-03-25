@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="SbSCh2_5.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300" d:DesignWidth="400">
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        <RadioButton Content="Opt 1" Height="16" HorizontalAlignment="Left" Margin="10,10,0,0" Name="radioButton1" VerticalAlignment="Top" />
+        <RadioButton Content="Opt 2" Height="16" HorizontalAlignment="Left" Margin="10,36,0,0" Name="radioButton2" VerticalAlignment="Top" />
+        <RadioButton Content="Opt 3" Height="16" HorizontalAlignment="Left" Margin="10,62,0,0" Name="radioButton3" VerticalAlignment="Top" />
+        <RadioButton Content="Opt 4" Height="16" HorizontalAlignment="Left" Margin="10,88,0,0" Name="radioButton4" VerticalAlignment="Top" />
+        <RadioButton Content="Opt A" Height="16" HorizontalAlignment="Left" Margin="10,114,0,0" Name="radioButton5" VerticalAlignment="Top" GroupName="Letters" Click="radioButton5_Click" />
+        <RadioButton Content="Opt B" Height="16" HorizontalAlignment="Left" Margin="10,140,0,0" Name="radioButton6" VerticalAlignment="Top" GroupName="Letters" />
+        <RadioButton Content="Opt C" Height="16" HorizontalAlignment="Left" Margin="10,166,0,0" Name="radioButton7" VerticalAlignment="Top" GroupName="Letters" />
+        <RadioButton Content="Opt 8" Height="16" HorizontalAlignment="Left" Margin="10,192,0,0" Name="radioButton8" VerticalAlignment="Top" GroupName="Letters" />
+    </Grid>
+</UserControl>

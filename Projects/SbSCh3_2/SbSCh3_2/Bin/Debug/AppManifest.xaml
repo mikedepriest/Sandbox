@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="SbSCh3_2" EntryPointType="SbSCh3_2.App" RuntimeVersion="4.0.50826.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="SbSCh3_2" Source="SbSCh3_2.dll" />
+  </Deployment.Parts>
+</Deployment>

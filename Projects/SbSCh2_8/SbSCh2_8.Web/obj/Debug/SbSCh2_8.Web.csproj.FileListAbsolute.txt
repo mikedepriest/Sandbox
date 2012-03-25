@@ -1,0 +1,5 @@
+C:\Documents and Settings\mike_depriest\My Documents\Visual Studio 2010\Projects\SbSCh2_8\SbSCh2_8.Web\bin\SbSCh2_8.Web.dll
+C:\Documents and Settings\mike_depriest\My Documents\Visual Studio 2010\Projects\SbSCh2_8\SbSCh2_8.Web\bin\SbSCh2_8.Web.pdb
+C:\Documents and Settings\mike_depriest\My Documents\Visual Studio 2010\Projects\SbSCh2_8\SbSCh2_8.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mike_depriest\My Documents\Visual Studio 2010\Projects\SbSCh2_8\SbSCh2_8.Web\obj\Debug\SbSCh2_8.Web.dll
+C:\Documents and Settings\mike_depriest\My Documents\Visual Studio 2010\Projects\SbSCh2_8\SbSCh2_8.Web\obj\Debug\SbSCh2_8.Web.pdb

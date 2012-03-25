@@ -1,0 +1,12 @@
+C:\Documents and Settings\mike_depriest\My Documents\Visual Studio 2010\Projects\SbSCh3_1\SbSCh3_1\Bin\Debug\SbSCh3_1.dll
+C:\Documents and Settings\mike_depriest\My Documents\Visual Studio 2010\Projects\SbSCh3_1\SbSCh3_1\Bin\Debug\SbSCh3_1.pdb
+C:\Documents and Settings\mike_depriest\My Documents\Visual Studio 2010\Projects\SbSCh3_1\SbSCh3_1\Bin\Debug\AppManifest.xaml
+C:\Documents and Settings\mike_depriest\My Documents\Visual Studio 2010\Projects\SbSCh3_1\SbSCh3_1\Bin\Debug\SbSCh3_1.xap
+C:\Documents and Settings\mike_depriest\My Documents\Visual Studio 2010\Projects\SbSCh3_1\SbSCh3_1\Bin\Debug\SbSCh3_1TestPage.html
+C:\Documents and Settings\mike_depriest\My Documents\Visual Studio 2010\Projects\SbSCh3_1\SbSCh3_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mike_depriest\My Documents\Visual Studio 2010\Projects\SbSCh3_1\SbSCh3_1\obj\Debug\App.g.i.cs
+C:\Documents and Settings\mike_depriest\My Documents\Visual Studio 2010\Projects\SbSCh3_1\SbSCh3_1\obj\Debug\MainPage.g.i.cs
+C:\Documents and Settings\mike_depriest\My Documents\Visual Studio 2010\Projects\SbSCh3_1\SbSCh3_1\obj\Debug\SbSCh3_1.g.resources
+C:\Documents and Settings\mike_depriest\My Documents\Visual Studio 2010\Projects\SbSCh3_1\SbSCh3_1\obj\Debug\SbSCh3_1.dll
+C:\Documents and Settings\mike_depriest\My Documents\Visual Studio 2010\Projects\SbSCh3_1\SbSCh3_1\obj\Debug\SbSCh3_1.pdb
+C:\Documents and Settings\mike_depriest\My Documents\Visual Studio 2010\Projects\SbSCh3_1\SbSCh3_1\obj\Debug\XapCacheFile.xml
